@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## REPOSITORIO ESPECIAL EN GITHUB CON USERNAME
+
+Si en Github creamos un repositorio con el mismo nombre que nuestro username es un repositorio especial donde añadir un README que aparecerá
+
+username: JavierBRO
+
+repositorio: JavierBRO
+
+##  BORRAR REPOSITORIO
+
+En settings, hacer scroll hacia abajo del todo, en Danger zone permite borrar.
+
+
+## GIT FLOW
+
+![Modelo Git Glow](image.png)
