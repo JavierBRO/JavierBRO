@@ -32,4 +32,4 @@ En settings, hacer scroll hacia abajo del todo, en Danger zone permite borrar.
 ## GIT FLOW
 
 ![Modelo Git Glow](image.png)
-![Alt text](image-1.png)
+![FotoMiaPerfil](image-1.png)
